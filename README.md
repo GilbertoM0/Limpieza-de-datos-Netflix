@@ -12,29 +12,29 @@ Este repositorio contiene un análisis detallado del dataset de Netflix, que inc
 ## Descripción del Dataset
 El dataset contiene las siguientes columnas:
 
-- show_id: Identificador único del contenido.
+- `show_id`: Identificador único del contenido.
 
-- type: Tipo de contenido (Movie o TV Show).
+- `type`: Tipo de contenido (Movie o TV Show).
 
-- title: Título del contenido.
+- `title`: Título del contenido.
 
-- director: Director del contenido.
+- `director`: Director del contenido.
 
-- cast: Actores principales.
+- `cast`: Actores principales.
 
-- country: País de producción.
+- `country`: País de producción.
 
-- date_added: Fecha en que el contenido fue añadido a Netflix.
+- `date_added`: Fecha en que el contenido fue añadido a Netflix.
 
-- release_year: Año de lanzamiento del contenido.
+- `release_year`: Año de lanzamiento del contenido.
 
-- rating: Clasificación por edad.
+- `rating`: Clasificación por edad.
 
-- duration: Duración (en minutos para películas o temporadas para series).
+- `duration`: Duración (en minutos para películas o temporadas para series).
 
-- listed_in: Géneros o categorías del contenido.
+- `listed_in`: Géneros o categorías del contenido.
 
-- description: Descripción del contenido.
+- `description`: Descripción del contenido.
 
 
 
