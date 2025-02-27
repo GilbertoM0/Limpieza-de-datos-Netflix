@@ -107,3 +107,5 @@ Clasificación por edad del contenido.
 
 ## 4. Visualización de Datos
 Gráficos de barras y bigotes.
+Ej:
+![image](https://github.com/user-attachments/assets/de895bb6-c977-4e59-a400-f46e70fac865)
