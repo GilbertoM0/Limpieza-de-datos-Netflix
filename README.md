@@ -66,7 +66,7 @@ Clona este repositorio:
 
 `bash`
 ```python
-git clone https://github.com/tu-usuario/netflix-analysis.git
+git clone https://github.com/GilbertoM0/Limpieza-de-datos-Netflix.git
 ```
 ## Instala las dependencias:
 
