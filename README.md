@@ -39,17 +39,17 @@ El dataset contiene las siguientes columnas:
 
 
 ## Objetivos del Proyecto
-### Explorar la distribución de películas y series en el catálogo de Netflix.
+- Explorar la distribución de películas y series en el catálogo de Netflix.
 
-### Analizar los géneros más populares y su relación con el tipo de contenido.
+- Analizar los géneros más populares y su relación con el tipo de contenido.
 
-### Identificar los países que producen más contenido.
+- Identificar los países que producen más contenido.
 
-### Estudiar las tendencias temporales de contenido añadido a Netflix.
+- Estudiar las tendencias temporales de contenido añadido a Netflix.
 
-### Explorar la duración de películas y series.
+- Explorar la duración de películas y series.
 
-### Analizar la clasificación por edad del contenido.
+- Analizar la clasificación por edad del contenido.
 
 ## Herramientas Utilizadas
 - Python: Lenguaje de programación principal.
@@ -108,4 +108,5 @@ Clasificación por edad del contenido.
 ## 4. Visualización de Datos
 Gráficos de barras y bigotes.
 Ej:
+
 ![image](https://github.com/user-attachments/assets/de895bb6-c977-4e59-a400-f46e70fac865)
